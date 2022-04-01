@@ -1,0 +1,43 @@
+*{color: green;}
+body {
+    background-image: url('bus.jpeg');
+    
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.form-container{
+    border: 0px solid #0c0c0c;
+    padding: 50px 60px;
+    margin-top: 10vh;
+    -webkit-box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+    box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+}
+.signform-container{
+    border: 0px solid #0c0c0c;
+    padding: 50px 60px;
+    -webkit-box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+    box-shadow: 9px 7px 61px 45px rgba(0,0,0,0.86);
+}
+P{
+    color: yellow;
+    text-align: center;
+    font-family: chalkboard;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.link-signup
+{
+color: var(--color-secondary);
+text-decoration: none;
+cursor: pointer;
+}
+h2
+{
+text-align: center;
+}
+
